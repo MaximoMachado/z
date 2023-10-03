@@ -1,2 +1,2 @@
 while True:
-	print("Zooey is very cute")
+	print("Zooey is very pretty")
